@@ -1,0 +1,17 @@
+{
+	"name": "LTINordeaHackathon2020",
+	"version": "0.0.1",
+	"description": "Website for LTINordeaHackathon2020",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"cfenv": "^1.2.2",
+		"express": "^4.17.1",
+		"jquery-countdown": "^2.2.0"
+	},
+	"repository": {},
+	"engines": {
+		"node": "0.12.x"
+	}
+}
