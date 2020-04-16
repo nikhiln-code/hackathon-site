@@ -1,4 +1,7 @@
-# bluemix-hackathon-template
+# Hackathon Site 
 Website template for hackathons
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/arlemi/bluemix-hackathon-template)
+This site is build on plain:
+1 . HTML
+2.  Bootstrap
+
